@@ -1,8 +1,10 @@
-# 欢迎来到北京80中学白家庄分校2021届初一（10）班的热搜
+# 七10热搜
+
+## 北京80中学白家庄分校2021届初一（10）班的热搜
 
 # 本热搜一周更新一次。
 
-Powered By [6872](https://www.luogu.com.cn/user/341353)
+Powered By [<font color=orange>6872</font>](https://www.luogu.com.cn/user/341353)
 
 1. LCY VS 何美丽
 2. coach of coach, LRJ: "禁止套娃"
