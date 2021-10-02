@@ -2,7 +2,7 @@
 
 # 本热搜一周更新一次。
 
-Powered By 6872
+Powered By [6872](https://www.luogu.com.cn/user/341353)
 
 1. LCY VS 何美丽
 2. coach of coach, LRJ: "禁止套娃"
