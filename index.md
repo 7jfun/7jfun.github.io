@@ -30,4 +30,4 @@ Powered By 6872
 
 # 您可以去往：
 
-## -> [七10新闻](https://7jrs.github.io/news.md)
+## -> [七10新闻](https://7jrs.github.io/news)
