@@ -4,8 +4,8 @@ Powered By 6872
 
 # 最近文章
 
-[测试文章](https://7jrs.github.io/post/test.md)
+[测试文章](https://7jrs.github.io/post/test)
 
 # 全部文章
 
-[测试文章](https://7jrs.github.io/post/test.md)
+[测试文章](https://7jrs.github.io/post/test)
