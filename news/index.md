@@ -13,3 +13,5 @@ Powered By 6872
 # 您可以去往：
 
 ## -> [七10热搜](https://7jfun.github.io/rs)
+
+## -> [首页](https://7jfun.github.io)
