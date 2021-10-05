@@ -2,6 +2,6 @@
 
 # 您可以去往：
 
-## -> [七10热搜](https://7jrs.github.io/rs)
+## -> [七10热搜](https://7jfun.github.io/rs)
 
-## -> [七10新闻](https://7jrs.github.io/news)
+## -> [七10新闻](https://7jfun.github.io/news)
