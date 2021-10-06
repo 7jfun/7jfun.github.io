@@ -1,3 +1,5 @@
+热搜-七10FUN
+
 北京80中学白家庄分校2021届初一（10）班的热搜
 
 本热搜一周更新一次。
@@ -30,4 +32,6 @@ Powered By 6872
 
 # 您可以去往：
 
-## -> [七10新闻](https://7jfun.github.io/news)
+## -> [新闻-七10FUN](https://7jfun.github.io/news)
+
+## -> [首页-七10FUN](https://7jfun.github.io)
