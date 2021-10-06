@@ -1,3 +1,5 @@
+新闻-七10FUN
+
 北京80中学白家庄分校2021届初一（10）班的新闻
 
 Powered By 6872
@@ -12,6 +14,6 @@ Powered By 6872
 
 # 您可以去往：
 
-## -> [七10热搜](https://7jfun.github.io/rs)
+## -> [热搜-七10FUN](https://7jfun.github.io/rs)
 
-## -> [首页](https://7jfun.github.io)
+## -> [首页-七10FUN](https://7jfun.github.io)
