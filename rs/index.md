@@ -8,29 +8,29 @@
 
 Powered By 6872
 
-1. LCY VS 何美丽
+1. LCY疑似脑震荡
 
-2. coach of coach, LRJ: “禁止套娃”
+2. LCY再一次VS何美丽，再一次失败
 
-3. HV与UR的终极对决
+3. Qberry说脏话
 
-4. LRJ看 6872 B站笑出猪叫
+4. 何美丽的化学
 
-5. 校霸LRJ与可爱的QQY
+5. QQY即将注册洛谷！
 
-6. 严狗头确诊沙雕症
+6. 陈乐道的`a English teacher`
 
-7. 纪律委员TXR带糖果进学校
+7. QQY四人帮全部被拆散
 
-8. 男生跳舞
+8. [5,6,7,8](https://music.163.com/#/song?id=4288014)
 
-9. Q勃睿
+9. 两个纪委打架
 
-10. LRJ的白嫖课程
+10. 历史考试的下马威
 
-11. 凡尔赛老婆婆教你如何fAKe
+11. 李孟尧被换，喜大普奔
 
-12. 6872 在信息课上使电脑脱离老师控制
+12. We study biology professionally.
 
 # 您可以去往：
 
