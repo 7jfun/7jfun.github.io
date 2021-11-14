@@ -1,3 +1,8 @@
+æ–‡ç« PyTurtleæŠ½å¥–-ä¸ƒ10FUN
+
+-----
+
+```python
 # draw price
 import turtle as t
 import random
@@ -227,7 +232,7 @@ def write_numbers(str_x):
         
 def main():
     
-    b = input("ÇëÊäÈë×ÜÈËÊı£º")
+    b = input("Ã‡Ã«ÃŠÃ¤ÃˆÃ«Ã—ÃœÃˆÃ‹ÃŠÃ½Â£Âº")
     b = int(b)
     
     winner_list = []
@@ -247,6 +252,6 @@ def main():
     t.done()
     
 if __name__ == "__main__":
-    
     t.hideturtle()
     main()
+```
