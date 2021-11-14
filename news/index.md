@@ -8,11 +8,11 @@ Powered By 6872
 
 # 最近文章
 
-[PythonTurtle抽奖](https://7jfun.github.io/post/pythonturtledrawprice)
+[PyTurtle抽奖](https://7jfun.github.io/post/pyturtledrawprice)
 
 # 全部文章
 
-[PythonTurtle抽奖](https://7jfun.github.io/post/pythonturtledrawprice)
+[PyTurtle抽奖](https://7jfun.github.io/post/pyturtledrawprice)
 
 [测试文章](https://7jfun.github.io/post/test)
 
