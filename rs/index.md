@@ -8,7 +8,7 @@
 
 Powered By 6872
 
-1. LCY疑似脑震荡
+1. [初一10班联欢会即将于12月31日早上开始！](https://7jfun.github.io/post/celebration1231/)
 
 2. LCY再一次VS何美丽，再一次失败
 
